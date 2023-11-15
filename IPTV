@@ -2,6 +2,8 @@
 #EXTM3U
 
 #****************************************LOKAL****************************************#
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FmfK6J/indosiar.jpg" group-title="LOKAL",Indosiar 
+http://103.166.27.2:8112/play/a016
 
 #EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="LOKAL",TVONE
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
