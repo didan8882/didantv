@@ -2,6 +2,9 @@
 #EXTM3U
 
 #****************************************LOKAL****************************************#
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="LOKAL", Net TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3FmfK6J/indosiar.jpg" group-title="LOKAL",Indosiar 
 http://103.166.27.2:8112/play/a016
 
