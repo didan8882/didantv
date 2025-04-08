@@ -3,38 +3,26 @@
 
 #****************************************LOKAL****************************************#
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTINF:-1 tvg-id="" tvg-name="ID- RCTI HD" tvg-logo="http://go4.pw/INDONESIA/rcti.png" group-title="Indonesia Channels",RCTI HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/830548
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=1&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-name="ID- RCTI HD" tvg-logo="http://go4.pw/INDONESIA/rcti.png" group-title="Indonesia Channels",RCTI
+https://terabit.web.id/media.mpd?id=1&type=dash
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png", MNC TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV HD" tvg-logo="http://go4.pw/INDONESIA/MNC TV.png" group-title="Indonesia Channels",MNC TV HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064641
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png", MNC
+https://terabit.web.id/media.mpd?id=2&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png", GTV
-https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTINF:-1 tvg-id="" tvg-name="GTV HD" tvg-logo="http://go4.pw/INDONESIA/GTV.png" group-title="Indonesia Channels",GTV HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/830544
+https://terabit.web.id/media.mpd?id=3&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV HD" tvg-logo="http://go4.pw/EXYU/NETTV.png" group-title="Indonesia Channels",MDTV HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/830551
+http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302288.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -78,7 +66,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png", INEWS
-https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://terabit.web.id/media.mpd?id=4&type=dash
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
@@ -115,7 +103,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",IMC
-https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302262.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
