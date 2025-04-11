@@ -221,6 +221,37 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 
+#EXTINF:-1 group-title="Movies" tvg-id="arirangworld.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/Arirang/sa_dash/Arirang.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-id="axnindonesia.id" tvg-logo="https://i.imgur.com/jWAQfAf.png",AXN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
+
+
 ######MUSIC#######
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="CHANNEL | MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 group-title="V++" tvg-logo="https://www.lyngsat.com/logo/tv/oo/originals-real-and-alive-uk.png  ",ORIGINALS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="V++" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineedge-uk.png ",CINEEDGE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="V++" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png",SUPERRIX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
