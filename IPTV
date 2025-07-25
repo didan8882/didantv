@@ -1,12 +1,6 @@
 
 #EXTM3U
 
-
-#####################MOVIES####################################
-
-
-
-
 #EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://media.licdn.com/dms/image/v2/C4D16AQE_9L5giUK1Gw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1608124189692?e=2147483647&v=beta&t=TzrWcDMaat9fTc0th9ftMu467jT7xzmwKsrHL1vQHeY" group-title="TV EVENT",ME EVENT- By Didan ME
 https://www.googleapis.com/drive/v3/files/1KUQNbhRNhfpC1pLHXKtiBUouTIlZDeLj?alt=media&key=AIzaSyBOzsM77wm47Sj5XcvS6WIu5mUFsFUadIs
 
@@ -397,6 +391,19 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 
 <= =TV movie ==>
+
+
+#####################MOVIES####################################
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/cm.png" group-title="Movies",Celestial Movies d
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/ccm.png" group-title="Movies",Celestial Classic d
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740651682_tvchannels_v1.jpg" group-title="Dens TV", Dens Ramadhan
