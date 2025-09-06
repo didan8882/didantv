@@ -170,15 +170,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #####################MOVIES####################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/cm.png" group-title="Movies",Celestial Movies d
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/ccm.png" group-title="Movies",Celestial Classic d
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
 
 #EXTINF:-1 tvg-id="DENSPLAY Channel.id" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg" group-title="Dens TV", DensPlay
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
